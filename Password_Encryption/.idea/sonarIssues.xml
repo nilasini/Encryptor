@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/wso2/carbon/identity/agent/sso/java/org.wso2.carbon.identity.sso.agent/5.1.10-SNAPSHOT/org.wso2.carbon.identity.sso.agent-5.1.10-SNAPSHOT.jar!/org/wso2/carbon/identity/sso/agent/bean/SSOAgentConfig.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/wso2/carbon/identity/agent/sso/java/org.wso2.carbon.identity.sso.agent/5.1.10-SNAPSHOT/org.wso2.carbon.identity.sso.agent-5.1.10-SNAPSHOT.jar!/org/wso2/carbon/identity/sso/agent/saml/SSOAgentX509KeyStoreCredential.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/Product_is_new/product-is/modules/samples/sso/sso-agent-sample/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/Product_is_new/product-is/modules/samples/sso/sso-agent-sample/src/main/java/org/wso2/sample/is/sso/agent/SampleContextEventListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/Product_is_new/product-is/modules/samples/sso/sso-agent-sample/src/main/resources/temp_file.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/Product_is_new/product-is/modules/samples/sso/sso-agent-sample/src/main/resources/temp_file.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/Product_is_new/product-is/modules/samples/sso/sso-agent-sample/src/main/resources/travelocity.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/bycloned/identity-agent-sso/components/org.wso2.carbon.identity.sso.agent/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/bycloned/identity-agent-sso/components/org.wso2.carbon.identity.sso.agent/src/main/java/org/wso2/carbon/identity/sso/agent/AESDecryptor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/bycloned/identity-agent-sso/components/org.wso2.carbon.identity.sso.agent/src/main/java/org/wso2/carbon/identity/sso/agent/SSOAgentConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/bycloned/identity-agent-sso/components/org.wso2.carbon.identity.sso.agent/src/main/java/org/wso2/carbon/identity/sso/agent/SSOSecurity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/bycloned/identity-agent-sso/components/org.wso2.carbon.identity.sso.agent/src/main/java/org/wso2/carbon/identity/sso/agent/bean/SSOAgentConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/bycloned/identity-agent-sso/components/org.wso2.carbon.identity.sso.agent/src/main/java/org/wso2/carbon/identity/sso/agent/temp_file.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/bycloned/identity-agent-sso/components/org.wso2.carbon.identity.sso.agent/src/main/java/org/wso2/carbon/identity/sso/agent/util/SSOAgentConfigs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/bycloned/identity-agent-sso/components/org.wso2.carbon.identity.sso.agent/src/main/java/org/wso2/carbon/identity/sso/agent/util/SSOAgentConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/carbon-identity-framework/components/application-mgt/org.wso2.carbon.identity.application.mgt/src/main/java/org/wso2/carbon/identity/application/mgt/ApplicationManagementService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/carbon-identity-framework/components/application-mgt/org.wso2.carbon.identity.application.mgt/src/main/java/org/wso2/carbon/identity/application/mgt/ApplicationManagementServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/carbon-identity-framework/components/application-mgt/org.wso2.carbon.identity.application.mgt/src/main/java/org/wso2/carbon/identity/application/mgt/dao/impl/ApplicationDAOImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/carbon-identity-framework/components/identity-core/org.wso2.carbon.identity.core/src/main/java/org/wso2/carbon/identity/core/util/IdentityTenantUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/carbon-identity-framework/components/idp-mgt/org.wso2.carbon.idp.mgt.ui/src/main/resources/web/idpmgt/idp-mgt-edit-local.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/carbon-identity-framework/features/identity-core/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/carbon-identity-framework/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/identity-inbound-auth-oauth/components/org.wso2.carbon.identity.oauth.dcr/src/main/java/org/wso2/carbon/identity/oauth/dcr/factory/RegistrationRequestFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Encryption.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Sample1/src/SampleClass1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Sample2/src/SampleClass1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Properties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
