@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/a.dummy">
           <value>
             <set />
@@ -48,6 +53,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/Product_is_new/product-is/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../IAM/bycloned/identity-agent-sso/components/org.wso2.carbon.identity.sso.agent/pom.xml">
           <value>
             <set />
@@ -69,6 +79,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../IAM/bycloned/identity-agent-sso/components/org.wso2.carbon.identity.sso.agent/src/main/java/org/wso2/carbon/identity/sso/agent/bean/SSOAgentConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/bycloned/identity-agent-sso/components/org.wso2.carbon.identity.sso.agent/src/main/java/org/wso2/carbon/identity/sso/agent/bean/secret_key.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../IAM/bycloned/identity-agent-sso/components/org.wso2.carbon.identity.sso.agent/src/main/java/org/wso2/carbon/identity/sso/agent/secretkey_temp.txt">
           <value>
             <set />
           </value>
@@ -144,6 +164,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../Sample2/src/SampleClass1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SampleAlgo/src/SampleAES.java">
           <value>
             <set />
           </value>
